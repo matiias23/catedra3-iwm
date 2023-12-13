@@ -11,13 +11,13 @@ Asegúrate de tener [Node.js](https://nodejs.org/) instalado en tu máquina.
 1. Clona este repositorio o descarga el código.
 
     ```bash
-    git clone https://github.com/rickyurvinaUCN/Prueba3IWM
+    git clone https://github.com/matiias23/catedra3-iwm.git
     ```
 
 2. Navega al directorio del proyecto.
 
     ```bash
-    cd Prueba3IWM
+    cd backend
     ```
 
 3. Instala las dependencias.
@@ -54,3 +54,8 @@ http://localhost:3000/posts/{postId}
 
 Mas documentación
 https://github.com/typicode/json-server
+
+# PARA EL FRONT MOBILE
+  cd frontmobile
+    npm install
+    
